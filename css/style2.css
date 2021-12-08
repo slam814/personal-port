@@ -25,12 +25,12 @@ html::-webkit-scrollbar-track {
 }
 
 html::-webkit-scrollbar-thumb {
-  background: crimson;
+  background: darkcyan;
   border-radius: 5rem;
 }
 
 body {
-  background: #0d0d0d;
+  background: black;
   padding-bottom: 6.5rem;
 }
 
@@ -97,7 +97,7 @@ section {
 .navbar a {
   padding: 2rem;
   font-size: 2rem;
-  background: #1a1a1a;
+  background: black;
   -webkit-box-flex: 1;
       -ms-flex: 1;
           flex: 1;
