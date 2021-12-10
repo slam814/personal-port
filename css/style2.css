@@ -31,6 +31,8 @@ html::-webkit-scrollbar-thumb {
 
 body {
   background: black;
+  background-image: url(images/background1.png);
+
   padding-bottom: 6.5rem;
 }
 
